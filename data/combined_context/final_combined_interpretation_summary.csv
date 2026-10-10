@@ -1,0 +1,6 @@
+Finding,CAS_Only,Final_Context,Change,Interpretation
+Accuracy,0.49400630914826504,0.5183538858617723,0.02434757671350729,The final national-context model improved overall classification accuracy.
+Balanced Accuracy,0.40620132505476275,0.3946868545541891,-0.011514470500573637,"Balanced accuracy decreased, indicating weaker average class-level performance."
+Macro F1,0.32884373203738476,0.3389033404282683,0.010059608390883545,"Macro F1 improved in all five seeds, showing a consistent overall benefit from the added national-context features."
+Fatal Recall,0.3076923076923077,0.22153846153846155,-0.08615384615384616,Fatal-crash recall decreased substantially. The final model often confused Fatal crashes with Serious crashes.
+Serious Recall,0.39441117764471056,0.3756487025948104,-0.01876247504990014,Serious-crash recall changed only slightly across the five-seed comparison.

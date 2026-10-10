@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+xgboost
+imbalanced-learn
+scipy
+geopandas
+shapely
+pyogrio
+rasterio
+requests
+shap
+openpyxl
+jupyterlab
