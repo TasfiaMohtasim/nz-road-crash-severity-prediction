@@ -89,3 +89,9 @@ See **[DATA_SOURCES.md](DATA_SOURCES.md)** for the source links and licence info
 - The derived GCH-enriched CSV is not redistributed in this repository.
 - SHAP values explain model behaviour; they do not prove causation.
 - Third-party datasets remain subject to their original provider licences.
+
+## Live Dashboard
+
+Interactive Streamlit dashboard:
+
+https://nz-road-crash-severity-app.streamlit.app/
